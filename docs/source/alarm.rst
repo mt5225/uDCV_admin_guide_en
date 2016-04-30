@@ -81,7 +81,7 @@ Status of data processing queue can be view under **Monitor and Alarm** -> **Que
 Data Generator
 ===============
 
-You may generate performance data records for assets using **Data Generator** for **demo** purpose. Data Generator function is located at **Monitor and Alarm** -> **Data Generator**. One of the typical user case is generate **HeatMap** data for temperature sensors.
+User can generate performance records using **Data Generator** for **demo** purpose. Data Generator function is located at **Monitor and Alarm** -> **Data Generator**. One of the typical user case is to generate data to build **HeatMap** from a group of temperature sensors.
 
 To generate sample data, the following fields are required:
 

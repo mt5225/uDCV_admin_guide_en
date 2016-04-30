@@ -26,4 +26,4 @@ System log, includes operation log and exceptions, can be viewed online under **
 Advance UI Settings
 ===================
 
-uDCV 3D scene UI can be customized to meet different user scenario under **Preference** tab, please contact uinnova or your sale representative for further details.
+uDCV 3D scene UI can be customized under **Preference** tab, please contact uinnova or your sale representative for further details.
